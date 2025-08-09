@@ -1,11 +1,13 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/3mjB4g7lJzUAAAAC/hey.gif" alt="Developer Banner" width="100%" />
-</p>
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://media.tenor.com/N5V9Ab85JGwAAAAi/unknown-window.gif" alt="Background" style="width: 100%; filter: brightness(50%);">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    WELCOME
+  </h1>
+</div>
 
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm <a href="#">CekuTXT</a></h1>
-<h3 align="center">🚀 Full-Stack Overlord | Software Architect | AI Enthusiast | Tech Evangelist</h3>
+<h1 align="center">Hi 👋, I'm <a href="#">İbrahim Dağdeviren</a></h1>
+<h3 align="center">🚀 Full-Stack Developer | Software Architect | AI Enthusiast | Tech Evangelist</h3>
 
 <!-- Badges -->
 <p align="center">
