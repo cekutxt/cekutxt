@@ -256,19 +256,6 @@ _"Code is not just instructions to a computer — it's a bridge between imaginat
 </p>
 
 ---
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies | Live Demo / Repo |
-|---------|-------------|--------------|------------------|
-| **Domain & WHOIS Lookup Platform** | Responsive web app for domain search and WHOIS queries. | HTML5, CSS3, JavaScript, Node.js, Express, API Integration | [🔗 Repo](https://github.com/cekutxt/domain-whois) |
-| **Login Page UI Kit** | Modern, animated login/register page templates. | React, TailwindCSS, Framer Motion | [🔗 Repo](https://github.com/cekutxt/login-ui) |
-| **Pixel Art Generator** | Black & red themed pixel “Vibe” image generator. | Python, Pillow, CLI Tool | [🔗 Repo](https://github.com/cekutxt/pixel-art) |
-| **GitHub Analytics Dashboard** | Customizable GitHub profile analytics with visual charts. | JavaScript, Chart.js, GitHub API | [🔗 Repo](https://github.com/cekutxt/gh-dashboard) |
-| **Full Stack Chrome Extensions Pack** | 100 unique Chrome extensions for developers. | JavaScript, Manifest V3 | [🔗 Repo](https://github.com/cekutxt/dev-chrome-extensions) |
-
----
 
 ## 🎓 Certifications
 
