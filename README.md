@@ -261,12 +261,5 @@ _"Code is not just instructions to a computer — it's a bridge between imaginat
 
 ---
 
-## 🔄 Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/cekutxt/repo/pull/42) in [cekutxt/repo](https://github.com/cekutxt/repo)
-2. 💬 Commented on [#101](https://github.com/cekutxt/repo/issues/101)
-3. 🚀 Released v2.0.0
-<!--END_SECTION:activity-->
 
----
 
