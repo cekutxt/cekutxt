@@ -260,6 +260,49 @@ _"Code is not just instructions to a computer — it's a bridge between imaginat
 </p>
 
 ---
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies | Live Demo / Repo |
+|---------|-------------|--------------|------------------|
+| **Domain & WHOIS Lookup Platform** | Responsive web app for domain search and WHOIS queries. | HTML5, CSS3, JavaScript, Node.js, Express, API Integration | [🔗 Repo](https://github.com/cekutxt/domain-whois) |
+| **Login Page UI Kit** | Modern, animated login/register page templates. | React, TailwindCSS, Framer Motion | [🔗 Repo](https://github.com/cekutxt/login-ui) |
+| **Pixel Art Generator** | Black & red themed pixel “Vibe” image generator. | Python, Pillow, CLI Tool | [🔗 Repo](https://github.com/cekutxt/pixel-art) |
+| **GitHub Analytics Dashboard** | Customizable GitHub profile analytics with visual charts. | JavaScript, Chart.js, GitHub API | [🔗 Repo](https://github.com/cekutxt/gh-dashboard) |
+| **Full Stack Chrome Extensions Pack** | 100 unique Chrome extensions for developers. | JavaScript, Manifest V3 | [🔗 Repo](https://github.com/cekutxt/dev-chrome-extensions) |
+
+---
+
+## 🎓 Certifications
+
+- **Full-Stack Web Development** – *FreeCodeCamp*
+- **Advanced JavaScript Concepts** – *Udemy*
+- **Responsive Web Design** – *FreeCodeCamp*
+- **REST API Design** – *Postman Academy*
+- **Cloud Practitioner Essentials** – *AWS Training*
+- **Database Management & SQL Mastery** – *Coursera*
+- **UI/UX Design Principles** – *Google UX Design Certificate*
+- **Python for Data Science** – *IBM Skills Network*
+
+---
+
+## 💼 Professional Work
+
+- **Freelance Developer** – Delivered 50+ custom web apps, dashboards, and API integrations for international clients.
+- **Technical Consultant** – Helped startups optimize tech stacks & architecture.
+- **Open Source Contributor** – Active participation in multiple GitHub open-source projects.
+
+---
+
+## 🎯 Showroom
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/00000000/placeholder.gif" alt="Project Demo 1" width="45%" />
+  <img src="https://user-images.githubusercontent.com/00000000/placeholder.gif" alt="Project Demo 2" width="45%" />
+</p>
+
+---
 
 
 
