@@ -328,12 +328,14 @@ My philosophy is simple: **Build solutions that last, scale, and inspire.**
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🎵 Now Playing on Spotify
 
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31upxymbdc3iijck2tlmipt37qtm&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31upxymbdc3iijck2tlmipt37qtm&cover_image=true&theme=novatorem" />
+  </a>
+</p>
 
 ---
-
-
 
 
