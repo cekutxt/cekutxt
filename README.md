@@ -1,6 +1,4 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://media.tenor.com/N5V9Ab85JGwAAAAi/unknown-window.gif" alt="Background" style="width: 100%; filter: brightness(50%);">
-</div>
+
 
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm <a href="#">İbrahim Dağdeviren</a></h1>
@@ -17,7 +15,7 @@
 
 ## 🚀 About Me
 I'm a **highly experienced and versatile software engineer** with a deep passion for building scalable, secure, and high-performance applications.  
-With years of hands-on experience in **web, mobile, backend, AI/ML, and DevOps**, I specialize in turning complex ideas into real-world solutions.
+With years of hands-on experience in **WEB**, I specialize in turning complex ideas into real-world solutions.
 
 💼 **Current Focus**:  
 - Building next-gen **AI-powered applications**  
@@ -32,8 +30,7 @@ With years of hands-on experience in **web, mobile, backend, AI/ML, and DevOps**
 💡 **Philosophy**:  
 _"Code is not just instructions to a computer — it's a bridge between imagination and reality."_
 
-📍 **Based in**: 🌍 Global / Remote Work Available  
-🌐 **Portfolio**: [https://your-portfolio.com](https://your-portfolio.com)  
+📍 **Based in**: 🌍 Global / Remote Work Available 
 
 ---
 
