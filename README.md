@@ -1,8 +1,5 @@
 <div style="position: relative; text-align: center; color: white;">
   <img src="https://media.tenor.com/N5V9Ab85JGwAAAAi/unknown-window.gif" alt="Background" style="width: 100%; filter: brightness(50%);">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    WELCOME
-  </h1>
 </div>
 
 <!-- Title -->
