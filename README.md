@@ -36,6 +36,8 @@ _"Code is not just instructions to a computer — it's a bridge between imaginat
 📍 **Based in**: 🌍 Global / Remote Work Available  
 🌐 **Portfolio**: [https://your-portfolio.com](https://your-portfolio.com)  
 
+---
+
 ## 🛠 Tech Stack
 
 
@@ -214,3 +216,62 @@ _"Code is not just instructions to a computer — it's a bridge between imaginat
 ![Omron](https://img.shields.io/badge/Omron-000000?style=for-the-badge&logo=omron&logoColor=white)
 ![Festo](https://img.shields.io/badge/Festo-000000?style=for-the-badge&logo=festo&logoColor=white)
 ![Beckhoff](https://img.shields.io/badge/Beckhoff-000000?style=for-the-badge&logo=beckhoff&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/cekutxt">
+    <img src="https://github-readme-stats.vercel.app/api?username=cekutxt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cekutxt">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cekutxt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cekutxt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekutxt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cekutxt&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cekutxt&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+## 🔄 Recent GitHub Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#42](https://github.com/cekutxt/repo/pull/42) in [cekutxt/repo](https://github.com/cekutxt/repo)
+2. 💬 Commented on [#101](https://github.com/cekutxt/repo/issues/101)
+3. 🚀 Released v2.0.0
+<!--END_SECTION:activity-->
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/cekutxt/cekutxt/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
