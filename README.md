@@ -293,16 +293,6 @@ _"Code is not just instructions to a computer — it's a bridge between imaginat
 - **Technical Consultant** – Helped startups optimize tech stacks & architecture.
 - **Open Source Contributor** – Active participation in multiple GitHub open-source projects.
 
----
-
-## 🎯 Showroom
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/placeholder.gif" alt="Project Demo 1" width="45%" />
-  <img src="https://user-images.githubusercontent.com/00000000/placeholder.gif" alt="Project Demo 2" width="45%" />
-</p>
-
----
 
 
 
