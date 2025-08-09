@@ -270,8 +270,3 @@ _"Code is not just instructions to a computer — it's a bridge between imaginat
 
 ---
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://github.com/cekutxt/cekutxt/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
