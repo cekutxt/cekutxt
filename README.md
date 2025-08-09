@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/jZncbHJ/developer-banner.gif" alt="Developer Banner" width="100%" />
+  <img src="https://media1.tenor.com/m/8__xfmQr3PIAAAAC/roblox-rell-seas.gif" alt="Developer Banner" width="100%" />
 </p>
 
 <!-- Title -->
