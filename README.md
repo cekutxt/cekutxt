@@ -289,7 +289,7 @@ My philosophy is simple: **Build solutions that last, scale, and inspire.**
 
 ## 🎉 Fun Facts
 
-- 🖥️ I started coding at the age of **12**.
+- 🖥️ I started coding at the age of **15**.
 - 🌍 Worked with **clients from over 15 different countries**.
 - ☕ I survive on coffee (average 3 cups/day).
 - 🎨 Love **pixel art** and minimalist UI design.
