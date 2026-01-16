@@ -2,7 +2,7 @@
 
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm <a href="#">İbrahim Dağdeviren</a></h1>
-<h3 align="center">🚀 Full-Stack Developer | Software Architect | AI Enthusiast | Tech Evangelist</h3>
+<h3 align="center">🚀 Full-Stack Developer | Dağdeviren Ajans | Profesyonel Dijital Ajans ve Web Çözümleri</h3>
 
 <!-- Badges -->
 <p align="center">
